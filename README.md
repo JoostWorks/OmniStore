@@ -39,7 +39,7 @@ OmniStore seamlessly integrates with a wide variety of package managers:
 * **Developer Tools:** pip, pipx, npm, Cargo, .NET tools
 
 
-* **Other Sources:** GitHub Releases, AppImage
+* **Other Sources:** GitHub Releases, AppImage, Web..
 
 
 
