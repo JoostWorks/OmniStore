@@ -1,4 +1,4 @@
-# OmniStore
+# OmniStore !IN ACTIVE DEVELOPMENT!
 
 OmniStore is a single-executable front end for Windows and Linux that unifies multiple existing package managers into a single app store interface. Instead of hosting its own apps, it searches across your favorite managers, merges the results into unified app cards, and handles installations and background updates automatically.
 
